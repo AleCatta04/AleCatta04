@@ -1,5 +1,5 @@
-## Hello Everyone!
-
+# Hello Everyone, I'm Alessandro!
+### Computer Engineering Student at University of Pavia
 <!--
 **AleCatta04/AleCatta04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Alessandro, a Computer Engineering student at University of Pavia (IT).
 - 📘 I'm currently working on a project of OOP based on a CWM.
 - ☕ I usually work in Java or C
 - 💻 Mac user since 2020
-- 
+
+### Apart from code...
+- 🎸 Bassist and Metalhead: I have a rock band based in Pavia (IT)
+- 🔴 Pokémon Enjoyer: Competitive TCG Player and Judge
+- 🌊 Travel Enjoyer
+
