@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 ### Apart from code...
 - 🎸 Bassist and Metalhead: I have a rock band based in Pavia (IT)
-- 🔴 Pokémon Enjoyer: Competitive TCG Player and Judge
-- 🌊 Travel Enjoyer
-
+- 🎴 Pokémon Enjoyer: Competitive TCG Player and Judge
+- 🏯 Japan Lover
+- 🍫 Chocolate Lover: nothing is better than a chunk of chocolate to turn on my day
