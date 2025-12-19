@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Alessandro, a Computer Engineering student at University of Pavia (IT).
+- 📘 I'm currently working on a project of OOP based on a CWM.
+- ☕ I usually work in Java or C
+- 💻 Mac user since 2020
+- 
